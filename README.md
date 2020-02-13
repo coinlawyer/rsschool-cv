@@ -1,1 +1,1 @@
-[https://coinlawyer.github.io/rsschool-cv/cv] (https://coinlawyer.github.io/rsschool-cv/cv)
+https://coinlawyer.github.io/rsschool-cv/cv
