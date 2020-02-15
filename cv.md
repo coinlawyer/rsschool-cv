@@ -24,7 +24,7 @@ My latest code examples could be found here** :
 #### Also you could track my progress at [codewars](https://www.codewars.com/users/coinlawyer)
 
 ### **Experience** 
-All my experience I've gain during my recent education process. So I haven't any production experience. 
+All my experience I've got during my recent education process. So I haven't had any production experience. 
 
 ### **Education**
 Graduaded from Law Faculty of Ivan Franko National University of L'viv, Ukraine. Master's degree in 2008. 
