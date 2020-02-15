@@ -1,17 +1,34 @@
-#  Andrii Chyryk
- My contacts:
+#  **Andrii Chyryk**
+ 
+### **My contacts.**
 mob. tel. +38 (063) 626-02-65
 achyryk86@gmail.com
 
-I have done my graduation in Law and been working as a lawyer for about 15 years but I always had a passion to the computers and everythign that is connected with how they work. 
-Recently I started learning front-end development from a scratch, and now my goal is to get proficient development skills and to become a T-sharp experienced JavaScript developer, 
-get a deep experience in software developing, participating in real projects and, finally, to get a work position in this area.
+I have done my graduation in Law and have been working as a lawyer for about 15 years, but I always had a passion to the computers and everythign that was connected with them. 
+Recently I started learning front-end development from a scratch and now my goal is to get proficient development skills and to become a t-sharp web developer, 
+with a deep experience in software developing, participating in real projects and, finally, to get a work position in this area.
 I believe that my passion to learning and ability to learn fast will help a lot in gaining my goal. 
-I have basic skills of: GIT, HTML5, CSS3, Bootstrap, Javascript and React.
 
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+### **My skills.** 
+I have basic skills of GIT, HTML5, CSS3, Bootstrap, Javascript and React.
+
+### **Code examples**
+My latest code examples could be found here:** 
+[like AliExpress online shop](https://github.com/coinlawyer/WorkShops) 
+[freelance Exchange](https://github.com/coinlawyer/freelanceExchange)
+[Meme Generator](https://github.com/coinlawyer/MemeGenerator)
+
+### **Experience** 
+All my experience I`ve gain during my recent education. I haven`t any production experience. 
+
+### **Education**
+Graduaded from Law Faculty of Ivan Franko National University of L'viv, Ukraine. Master's degree in 2008. 
+
+#### **Courses**
+SoftServe HTML/CSS3/JavaScript Fundamentals 
+Learn React for free at [scrimba.com](https://scrimba.com/g/glearnreact) 
+JavaScript Essentials at Udemy - [certificate](https://www.udemy.com/certificate/UC-YAN2HIYR/) 
+Programming 101 at Udemy - [certificate](https://www.udemy.com/certificate/UC-a774d6d5-4a3e-4593-a0d9-d980230d697e/)
+
+### ** English ** 
+My current level of English is around A2-B1 as I almost had`nt practice for the long time. At a time of gimnasium graduation it was strong B2.
