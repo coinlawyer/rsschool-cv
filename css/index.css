@@ -19,3 +19,14 @@ body, html {
 header {
     display: flex;  
 }
+
+figure {
+    display: block;
+    width: 300px;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+figcaption {
+    max-width: 100%;
+}
